@@ -1,0 +1,141 @@
+C:\Vaibhav\c#and .Net Training\CodingExamples\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Vaibhav\c#and .Net Training\CodingExamples\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Vaibhav\c#and .Net Training\CodingExamples\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\DoctorManagement.exe
+C:\Vaibhav\c#and .Net Training\CodingExamples\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\DoctorManagement.deps.json
+C:\Vaibhav\c#and .Net Training\CodingExamples\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\DoctorManagement.runtimeconfig.json
+C:\Vaibhav\c#and .Net Training\CodingExamples\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\DoctorManagement.runtimeconfig.dev.json
+C:\Vaibhav\c#and .Net Training\CodingExamples\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\DoctorManagement.dll
+C:\Vaibhav\c#and .Net Training\CodingExamples\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\DoctorManagement.pdb
+C:\Vaibhav\c#and .Net Training\CodingExamples\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Vaibhav\c#and .Net Training\CodingExamples\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Vaibhav\c#and .Net Training\CodingExamples\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Vaibhav\c#and .Net Training\CodingExamples\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Vaibhav\c#and .Net Training\CodingExamples\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Vaibhav\c#and .Net Training\CodingExamples\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Vaibhav\c#and .Net Training\CodingExamples\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Vaibhav\c#and .Net Training\CodingExamples\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Vaibhav\c#and .Net Training\CodingExamples\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Vaibhav\c#and .Net Training\CodingExamples\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Vaibhav\c#and .Net Training\CodingExamples\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Vaibhav\c#and .Net Training\CodingExamples\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Vaibhav\c#and .Net Training\CodingExamples\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Vaibhav\c#and .Net Training\CodingExamples\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Vaibhav\c#and .Net Training\CodingExamples\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Vaibhav\c#and .Net Training\CodingExamples\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Vaibhav\c#and .Net Training\CodingExamples\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Vaibhav\c#and .Net Training\CodingExamples\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Vaibhav\c#and .Net Training\CodingExamples\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Vaibhav\c#and .Net Training\CodingExamples\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Vaibhav\c#and .Net Training\CodingExamples\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Vaibhav\c#and .Net Training\CodingExamples\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Vaibhav\c#and .Net Training\CodingExamples\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Vaibhav\c#and .Net Training\CodingExamples\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Vaibhav\c#and .Net Training\CodingExamples\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Vaibhav\c#and .Net Training\CodingExamples\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Vaibhav\c#and .Net Training\CodingExamples\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Vaibhav\c#and .Net Training\CodingExamples\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Vaibhav\c#and .Net Training\CodingExamples\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Vaibhav\c#and .Net Training\CodingExamples\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Vaibhav\c#and .Net Training\CodingExamples\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Vaibhav\c#and .Net Training\CodingExamples\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Vaibhav\c#and .Net Training\CodingExamples\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Vaibhav\c#and .Net Training\CodingExamples\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Vaibhav\c#and .Net Training\CodingExamples\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Vaibhav\c#and .Net Training\CodingExamples\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Vaibhav\c#and .Net Training\CodingExamples\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Vaibhav\c#and .Net Training\CodingExamples\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Vaibhav\c#and .Net Training\CodingExamples\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Vaibhav\c#and .Net Training\CodingExamples\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Vaibhav\c#and .Net Training\CodingExamples\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Vaibhav\c#and .Net Training\CodingExamples\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Vaibhav\c#and .Net Training\CodingExamples\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Vaibhav\c#and .Net Training\CodingExamples\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Vaibhav\c#and .Net Training\CodingExamples\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Vaibhav\c#and .Net Training\CodingExamples\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Vaibhav\c#and .Net Training\CodingExamples\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Vaibhav\c#and .Net Training\CodingExamples\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Vaibhav\c#and .Net Training\CodingExamples\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Vaibhav\c#and .Net Training\CodingExamples\DoctorManagement\DoctorManagement\obj\Debug\netcoreapp3.1\DoctorManagement.csproj.AssemblyReference.cache
+C:\Vaibhav\c#and .Net Training\CodingExamples\DoctorManagement\DoctorManagement\obj\Debug\netcoreapp3.1\DoctorManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vaibhav\c#and .Net Training\CodingExamples\DoctorManagement\DoctorManagement\obj\Debug\netcoreapp3.1\DoctorManagement.AssemblyInfoInputs.cache
+C:\Vaibhav\c#and .Net Training\CodingExamples\DoctorManagement\DoctorManagement\obj\Debug\netcoreapp3.1\DoctorManagement.AssemblyInfo.cs
+C:\Vaibhav\c#and .Net Training\CodingExamples\DoctorManagement\DoctorManagement\obj\Debug\netcoreapp3.1\DoctorManagement.csproj.CoreCompileInputs.cache
+C:\Vaibhav\c#and .Net Training\CodingExamples\DoctorManagement\DoctorManagement\obj\Debug\netcoreapp3.1\DoctorManagement.MvcApplicationPartsAssemblyInfo.cs
+C:\Vaibhav\c#and .Net Training\CodingExamples\DoctorManagement\DoctorManagement\obj\Debug\netcoreapp3.1\DoctorManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Vaibhav\c#and .Net Training\CodingExamples\DoctorManagement\DoctorManagement\obj\Debug\netcoreapp3.1\staticwebassets\DoctorManagement.StaticWebAssets.Manifest.cache
+C:\Vaibhav\c#and .Net Training\CodingExamples\DoctorManagement\DoctorManagement\obj\Debug\netcoreapp3.1\DoctorManagement.RazorTargetAssemblyInfo.cache
+C:\Vaibhav\c#and .Net Training\CodingExamples\DoctorManagement\DoctorManagement\obj\Debug\netcoreapp3.1\DoctorManagement.csproj.CopyComplete
+C:\Vaibhav\c#and .Net Training\CodingExamples\DoctorManagement\DoctorManagement\obj\Debug\netcoreapp3.1\DoctorManagement.dll
+C:\Vaibhav\c#and .Net Training\CodingExamples\DoctorManagement\DoctorManagement\obj\Debug\netcoreapp3.1\DoctorManagement.pdb
+C:\Vaibhav\c#and .Net Training\CodingExamples\DoctorManagement\DoctorManagement\obj\Debug\netcoreapp3.1\DoctorManagement.genruntimeconfig.cache
+C:\Users\Keerthana\Videos\DoctorManagement (1)\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Keerthana\Videos\DoctorManagement (1)\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Keerthana\Videos\DoctorManagement (1)\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\DoctorManagement.exe
+C:\Users\Keerthana\Videos\DoctorManagement (1)\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\DoctorManagement.deps.json
+C:\Users\Keerthana\Videos\DoctorManagement (1)\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\DoctorManagement.runtimeconfig.json
+C:\Users\Keerthana\Videos\DoctorManagement (1)\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\DoctorManagement.runtimeconfig.dev.json
+C:\Users\Keerthana\Videos\DoctorManagement (1)\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\DoctorManagement.dll
+C:\Users\Keerthana\Videos\DoctorManagement (1)\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\DoctorManagement.pdb
+C:\Users\Keerthana\Videos\DoctorManagement (1)\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Keerthana\Videos\DoctorManagement (1)\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\Keerthana\Videos\DoctorManagement (1)\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Keerthana\Videos\DoctorManagement (1)\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Keerthana\Videos\DoctorManagement (1)\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Keerthana\Videos\DoctorManagement (1)\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Keerthana\Videos\DoctorManagement (1)\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Keerthana\Videos\DoctorManagement (1)\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Keerthana\Videos\DoctorManagement (1)\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Keerthana\Videos\DoctorManagement (1)\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Keerthana\Videos\DoctorManagement (1)\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Keerthana\Videos\DoctorManagement (1)\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Keerthana\Videos\DoctorManagement (1)\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Keerthana\Videos\DoctorManagement (1)\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Keerthana\Videos\DoctorManagement (1)\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Keerthana\Videos\DoctorManagement (1)\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Keerthana\Videos\DoctorManagement (1)\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Keerthana\Videos\DoctorManagement (1)\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Keerthana\Videos\DoctorManagement (1)\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Keerthana\Videos\DoctorManagement (1)\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Keerthana\Videos\DoctorManagement (1)\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Keerthana\Videos\DoctorManagement (1)\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Keerthana\Videos\DoctorManagement (1)\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Keerthana\Videos\DoctorManagement (1)\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Keerthana\Videos\DoctorManagement (1)\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Keerthana\Videos\DoctorManagement (1)\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Keerthana\Videos\DoctorManagement (1)\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Keerthana\Videos\DoctorManagement (1)\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Keerthana\Videos\DoctorManagement (1)\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Keerthana\Videos\DoctorManagement (1)\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Keerthana\Videos\DoctorManagement (1)\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Keerthana\Videos\DoctorManagement (1)\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Keerthana\Videos\DoctorManagement (1)\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Keerthana\Videos\DoctorManagement (1)\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Keerthana\Videos\DoctorManagement (1)\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Keerthana\Videos\DoctorManagement (1)\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Keerthana\Videos\DoctorManagement (1)\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Keerthana\Videos\DoctorManagement (1)\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Keerthana\Videos\DoctorManagement (1)\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Keerthana\Videos\DoctorManagement (1)\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Keerthana\Videos\DoctorManagement (1)\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Keerthana\Videos\DoctorManagement (1)\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Keerthana\Videos\DoctorManagement (1)\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Keerthana\Videos\DoctorManagement (1)\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Keerthana\Videos\DoctorManagement (1)\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Keerthana\Videos\DoctorManagement (1)\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Keerthana\Videos\DoctorManagement (1)\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Keerthana\Videos\DoctorManagement (1)\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Keerthana\Videos\DoctorManagement (1)\DoctorManagement\DoctorManagement\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Keerthana\Videos\DoctorManagement (1)\DoctorManagement\DoctorManagement\obj\Debug\netcoreapp3.1\DoctorManagement.AssemblyInfoInputs.cache
+C:\Users\Keerthana\Videos\DoctorManagement (1)\DoctorManagement\DoctorManagement\obj\Debug\netcoreapp3.1\DoctorManagement.AssemblyInfo.cs
+C:\Users\Keerthana\Videos\DoctorManagement (1)\DoctorManagement\DoctorManagement\obj\Debug\netcoreapp3.1\DoctorManagement.csproj.CoreCompileInputs.cache
+C:\Users\Keerthana\Videos\DoctorManagement (1)\DoctorManagement\DoctorManagement\obj\Debug\netcoreapp3.1\DoctorManagement.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Keerthana\Videos\DoctorManagement (1)\DoctorManagement\DoctorManagement\obj\Debug\netcoreapp3.1\DoctorManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Keerthana\Videos\DoctorManagement (1)\DoctorManagement\DoctorManagement\obj\Debug\netcoreapp3.1\staticwebassets\DoctorManagement.StaticWebAssets.Manifest.cache
+C:\Users\Keerthana\Videos\DoctorManagement (1)\DoctorManagement\DoctorManagement\obj\Debug\netcoreapp3.1\staticwebassets\DoctorManagement.StaticWebAssets.xml
+C:\Users\Keerthana\Videos\DoctorManagement (1)\DoctorManagement\DoctorManagement\obj\Debug\netcoreapp3.1\scopedcss\bundle\DoctorManagement.styles.css
+C:\Users\Keerthana\Videos\DoctorManagement (1)\DoctorManagement\DoctorManagement\obj\Debug\netcoreapp3.1\DoctorManagement.RazorTargetAssemblyInfo.cache
+C:\Users\Keerthana\Videos\DoctorManagement (1)\DoctorManagement\DoctorManagement\obj\Debug\netcoreapp3.1\DoctorManagement.csproj.CopyComplete
+C:\Users\Keerthana\Videos\DoctorManagement (1)\DoctorManagement\DoctorManagement\obj\Debug\netcoreapp3.1\DoctorManagement.dll
+C:\Users\Keerthana\Videos\DoctorManagement (1)\DoctorManagement\DoctorManagement\obj\Debug\netcoreapp3.1\DoctorManagement.pdb
+C:\Users\Keerthana\Videos\DoctorManagement (1)\DoctorManagement\DoctorManagement\obj\Debug\netcoreapp3.1\DoctorManagement.genruntimeconfig.cache
+C:\Users\Keerthana\Videos\DoctorManagement (1)\DoctorManagement\DoctorManagement\obj\Debug\netcoreapp3.1\DoctorManagement.csproj.AssemblyReference.cache
